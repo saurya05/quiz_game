@@ -1,2 +1,2 @@
 # quiz_game
-a c++ project on c++
+a project on c++
